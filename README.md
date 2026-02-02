@@ -3,4 +3,4 @@ This project is an interactive Sales Analysis Dashboard created using Power BI. 
 
 ## Dashboard Screenshot
 
-![Sales Dashboard](dashboard.png)
+![Sales Dashboard](https://github.com/bishtprashant98-droid/Sales-Analysis-Dashboard/blob/main/dashboard.png.png)
